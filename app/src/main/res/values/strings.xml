@@ -3,4 +3,7 @@
     <string name="title_tic_tac_toe">Tic Tac Toe</string>
     <string name="enter_players_names">players names</string>
     <string name="play">play</string>
+    <string name="et_player_1">Player 1</string>
+    <string name="et_player_2">Player 2</string>
+    <string name="play_again">PLAY AGAIN</string>
 </resources>

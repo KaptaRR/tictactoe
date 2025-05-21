@@ -87,7 +87,7 @@
                 android:drawableStart="@drawable/ic_circle"
                 android:drawablePadding="8dp"
                 android:fontFamily="@font/nunito_extra_bold"
-                android:hint="Player 1"
+                android:hint="@string/et_player_1"
                 android:maxLines="1"
                 android:padding="8dp"
                 android:textStyle="italic" />
@@ -107,7 +107,7 @@
                 android:drawableStart="@drawable/ic_x"
                 android:drawablePadding="8dp"
                 android:fontFamily="@font/nunito_extra_bold"
-                android:hint="Player 2"
+                android:hint="@string/et_player_2"
                 android:maxLines="1"
                 android:padding="8dp"
                 android:textStyle="italic" />
