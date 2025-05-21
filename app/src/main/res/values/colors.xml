@@ -4,4 +4,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="purple">#3646AB</color>
     <color name="background_edit_text">#7F3646AB</color>
+=======
+    <color name="transparent">#003646AB</color>
+>>>>>>> origin/UIGame
 </resources>
